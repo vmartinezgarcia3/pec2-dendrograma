@@ -2,6 +2,8 @@
 
 Selección de 12 especies organizadas por familia, subfamilia y género.
 
+![Dendrograma de clasificación de felinos](./dendrograma.svg)
+
 Visualización: Víctor Martínez Garcia.
 
 Herramientas: RAWGraphs y acabado del SVG.
