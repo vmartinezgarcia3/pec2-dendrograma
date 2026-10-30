@@ -4,7 +4,7 @@ Selección de 12 especies organizadas por familia, subfamilia y género.
 
 Visualización: Víctor Martínez Garcia.
 
-Herramientas: RAWGraphs y acabado del SVG con Python.
+Herramientas: RAWGraphs y acabado del SVG.
 
 Datos: Mammal Diversity Database v2.5, CC BY 4.0.
 
